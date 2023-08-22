@@ -1,0 +1,29 @@
+.nav{
+    height: 40px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+.text{
+    color: whitesmoke;
+    font-family: 'Kanit', sans-serif;
+    font-size: larger;
+}
+.right{
+    display: flex;
+    align-items: center;
+}
+.search1{
+    background-color: blue;
+    color: aliceblue;
+    padding: 3px;
+    cursor: pointer;
+}
+.search1:hover{
+    background-color: rgb(8, 8, 159);
+}
+.search{
+    margin-right: 10px;
+}
